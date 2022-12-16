@@ -1,0 +1,65 @@
+[
+    {
+        "id": "1",
+        "topic": "Computation Offloading for IoT Systems in Cloud-Edge Environments",
+        "author": "Alex N. Okey",
+        "abstract": "",
+        "summary": "This abstract may not be related to the topic of the research but is used as a sample abstract to showcase how it would look like if there was an original abstract. In the first 6 months of 2020, the COVID-19 pandemic forced numerous universities across the globe to quickly transfer all their courses online...",
+        "price": "1000",
+        "category": "Computer Science"
+    },
+    {
+        "id": "2",
+        "topic": "3D Internet Technology",
+        "author": "Grace C. Peace",
+        "abstract": "",
+        "summary": "This abstract may not be related to the topic of the research but is used as a sample abstract to showcase how it would look like if there was an original abstract. In the first 6 months of 2020, the COVID-19 pandemic forced numerous universities across the globe to quickly transfer all their courses online...",
+        "price": "1500",
+        "category": "Computer Science"
+    },
+    {
+        "id": "3",
+        "topic": "Artificial Intelligence effect on Architectural Design",
+        "author": "Joeseph Nuoron",
+        "abstract": "",
+        "summary": "This abstract may not be related to the topic of the research but is used as a sample abstract to showcase how it would look like if there was an original abstract. In the first 6 months of 2020, the COVID-19 pandemic forced numerous universities across the globe to quickly transfer all their courses online...",
+        "price": "2000",
+        "category": "Engineering"
+    },
+    {
+        "id": "4",
+        "topic": "COVID-19: Virus is Mutating",
+        "author": "Richard K. Slowman",
+        "abstract": "",
+        "summary": "This abstract may not be related to the topic of the research but is used as a sample abstract to showcase how it would look like if there was an original abstract. In the first 6 months of 2020, the COVID-19 pandemic forced numerous universities across the globe to quickly transfer all their courses online...",
+        "price": "1300",
+        "category": "Medicine"
+    },
+    {
+        "id": "5",
+        "topic": "Geological findings and Truth about the Flood of Noah",
+        "author": "Uvarik L. Klisho",
+        "abstract": "",
+        "summary": "This abstract may not be related to the topic of the research but is used as a sample abstract to showcase how it would look like if there was an original abstract. In the first 6 months of 2020, the COVID-19 pandemic forced numerous universities across the globe to quickly transfer all their courses online...",
+        "price": "2500",
+        "category": "Geology"
+    },
+    {
+        "id": "6",
+        "topic": "Local Agriculture and its contribution to the Agro Eco System",
+        "author": "Samson Peters",
+        "abstract": "",
+        "summary": "This abstract may not be related to the topic of the research but is used as a sample abstract to showcase how it would look like if there was an original abstract. In the first 6 months of 2020, the COVID-19 pandemic forced numerous universities across the globe to quickly transfer all their courses online...",
+        "price": "1700",
+        "category": "Agriculture"
+    },
+    {
+        "id": "7",
+        "topic": "Organic sustainable energy source",
+        "author": "Samson Peters",
+        "abstract": "",
+        "summary": "This abstract may not be related to the topic of the research but is used as a sample abstract to showcase how it would look like if there was an original abstract. In the first 6 months of 2020, the COVID-19 pandemic forced numerous universities across the globe to quickly transfer all their courses online...",
+        "price": "4000",
+        "category": "Engineering"
+    }
+]
